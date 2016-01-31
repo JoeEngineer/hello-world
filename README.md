@@ -1,5 +1,4 @@
-# hello-world
-Hello World README
+# Hello World README
 
 Though I've used Subversion for over 15 years and Mercurial -- another DRCS -- for a couple years, I haven't had any experience with 'git' beyond the DRCS evaluation that yielded the decision to use Mercurial.
 
